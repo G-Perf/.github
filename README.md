@@ -1,2 +1,2 @@
-# .github
+# G-Perf.fr
 Welcome to G-Perf
